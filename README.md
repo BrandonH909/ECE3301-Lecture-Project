@@ -5,6 +5,9 @@ The goal of this project was to create a functioning contactless thermometer wit
 
 # Libraries Used
 Adafruit MLX 90614 Library by Adafruit
+
 Adafruit GFX Library by Adafruit
+
 Adafruit SSD1306 by Adafruit
+
 Blynk Library by Blynk.io
